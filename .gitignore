@@ -1,0 +1,9 @@
+node_modules/
+server/.env
+server/tula.db
+server/tula.db-*
+server/uploads/*
+!server/uploads/.gitkeep
+.DS_Store
+public.bak/
+*.bak

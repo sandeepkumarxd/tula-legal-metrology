@@ -1,0 +1,16 @@
+{
+  "name": "TULA — Legal Metrology Verification Platform",
+  "short_name": "TULA",
+  "description": "Online verification and digital certification for weighing and measuring instruments.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#EEEBE1",
+  "theme_color": "#132330",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

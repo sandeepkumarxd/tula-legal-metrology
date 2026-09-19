@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "online.sandeepkumar.server.twa",
+    "sha256_cert_fingerprints": [
+      "94:9E:5A:4D:4A:BC:C0:E8:0D:67:4F:BC:03:83:EC:54:1E:94:E7:9C:1D:3D:C7:B6:E4:24:87:C7:36:88:B1:9C"
+    ]
+  }
+}]
